@@ -11,6 +11,7 @@ Current idea is:
 - Firebase
 - Google Maps API
 - Yelp API 
+- Google Places API
 
 ## Reflection
 
