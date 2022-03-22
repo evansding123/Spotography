@@ -12,6 +12,7 @@ Current idea is:
 - Google Maps API
 - Yelp API 
 - Google Places API
+- Leaflet
 
 ## Reflection
 
