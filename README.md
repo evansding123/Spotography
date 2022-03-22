@@ -1,5 +1,5 @@
 ## Spotography
-Helping people find amazing spots for their landscape photography or for those that want to see a scenic view!
+Helping people find amazing spots for their landscape photography or for those that want to see a scenic view.
 
 ## Project Status
 Project is in the works and a tech stack is currently being determined. 
