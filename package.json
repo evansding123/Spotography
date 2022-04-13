@@ -1,0 +1,28 @@
+{
+  "name": "Spotography",
+  "version": "1.0.0",
+  "description": "Helping people find amazing spots for their landscape photography or for those that want to see a scenic view.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evansding123/Spotography.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evansding123/Spotography/issues"
+  },
+  "homepage": "https://github.com/evansding123/Spotography#readme",
+  "dependencies": {
+    "next": "^12.1.5",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
