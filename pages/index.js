@@ -1,8 +1,13 @@
 import React from 'react'
+import SearchBar from '../components/SearchBar.js';
+
 
 const Index = () => {
   return(
-    <div>Your Next.js App</div>
+    <>
+      <SearchBar/>
+      <div>Your Next.js App</div>
+    </>
   )
 }
 

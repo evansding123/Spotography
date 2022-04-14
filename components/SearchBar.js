@@ -3,7 +3,11 @@ import React, { useState, useEffect } from 'react';
 
 const SearchBar = () => {
   return(
-    <div>this a searchbar</div>
+
+    <form className = 'searchbar'>
+      <input type="text" id="fname" name="fname" placeholder ='Find a spot'></input>
+    </form>
+
   )
 }
 
