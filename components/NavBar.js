@@ -7,7 +7,7 @@ const NavBar = () => {
     <div className = 'navbar'>
       <div>Spotography</div>
       <div className = 'navigation'>
-        <Link href = '/reviews'>
+        <Link href = '/searchResults'>
           <a>Reviews</a>
         </Link>
         <Link href = '/saved'>
