@@ -1,6 +1,7 @@
 #__next{
   min-width: 90vw;
   min-height: 100vh;
+  font-family: 'Inter', sans-serif;
 
   .main__page {
     display: flex;
@@ -10,10 +11,10 @@
   }
 
   .banner {
+    font-weight: 400;
     margin-left: auto;
     margin-right: auto;
     margin-top: 50px;
-
     display: flex;
     justify-content: center;
     background-color: grey;
@@ -53,6 +54,7 @@
     border-bottom-style: solid;
     border-color: grey;
     align-items: flex-end;
+    box-shadow: 0px 4px 4px #00000040;
 
     .navigation {
       margin-bottom: 0;
